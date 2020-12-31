@@ -4,8 +4,8 @@ class Simple{
     }  
 } 
 
-class A{
+class complex{
 static public void main(String... args){
-System.out.println("hello java4");
+System.out.println("hello chala dapolila");
 }
 };
