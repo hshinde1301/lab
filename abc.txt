@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hi Wlecome to Bugfix branch
-now you are switching to Master branch!!
-=======
-hi how are you, you are in bugfix branch !!`
->>>>>>> bugfix
